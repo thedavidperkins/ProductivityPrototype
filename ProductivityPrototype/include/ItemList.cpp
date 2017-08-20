@@ -1,3 +1,7 @@
+/*
+*	Simple linked list
+*/
+
 #include "ItemList.h"
 #include<iostream>
 

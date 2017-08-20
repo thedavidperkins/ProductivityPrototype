@@ -22,9 +22,9 @@ public:
 
 	void setName(std::string n) { m_name = n; }
 	std::string getName() const { return m_name; }
-	void setPriority(uint p) { m_priority = p; }
+	void setPriority(size_t p) { m_priority = p; }
 	void setList(ItemList* p) { myList = p; }
-	uint getPriority() const { return m_priority; }
+	size_t getPriority() const { return m_priority; }
 	void print();
 };
 

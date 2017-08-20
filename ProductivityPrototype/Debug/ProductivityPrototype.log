@@ -1,0 +1,9 @@
+﻿  ItemList.cpp
+e:\visualstudio\projects\productivityprototype\productivityprototype\include\item.h(27): warning C4267: 'return': conversion from 'size_t' to 'uint', possible loss of data
+e:\visualstudio\projects\productivityprototype\productivityprototype\include\itemlist.cpp(23): warning C4267: 'argument': conversion from 'size_t' to 'uint', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Item.cpp
+  ProductivityPrototype.vcxproj -> E:\VisualStudio\Projects\ProductivityPrototype\Debug\ProductivityPrototype.exe
+  ProductivityPrototype.vcxproj -> E:\VisualStudio\Projects\ProductivityPrototype\Debug\ProductivityPrototype.pdb (Partial PDB)

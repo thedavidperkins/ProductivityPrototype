@@ -1,3 +1,7 @@
+/*
+*	Basic to-do item
+*/
+
 #include "Item.h"
 #include<iostream>
 
